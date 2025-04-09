@@ -290,7 +290,6 @@ jobs:
           2hlollipop \
           profiles \
           basal_lock \
-          live_activity \
           negative_insulin \
           bolus_display \
           g7_scan
